@@ -26,15 +26,14 @@ to create your own automated chicken coop.
 - (1) Smartphone with "Blynk" App installed
 
 
-1.)**~Initial Board Setup information~**
-
+1.) ~Initial Board Setup information~
 https://www.gabrielcsapo.com/arduino-web-server-mega-2560-r3-built-in-esp8266/
 - The link above is a great reference for how to set up the Mega 2560 + Wifi
 - Getting connected to wifi may be the hardest part of setting up the Automated coop. 
 - Use his guide above to get hooked up to wifi. If there is still trouble, it may be helpful to
   use the wifi portions of my code in tandem with his setup info to get connected.
   
-2.)**~Blynk App Setup~**
+2.) ~Blynk App Setup~
 - Download and login to the 'Blynk' app to your smartphone
 - Go online to Blynk website using computer and set up the necessary datastreams.
 - In total, this project has 8 datastreams. Datastreams are what Blynk uses to 
@@ -42,7 +41,7 @@ https://www.gabrielcsapo.com/arduino-web-server-mega-2560-r3-built-in-esp8266/
   to set up datastreams. Use the datastream settings shown in the "Blynk_Datastream_Setup.png" file
   for this project.
   
-3.)**~Code Inputs ~**
+3.) ~Code Inputs~
 This is a list of the inputs that you will need to modify in your code in the "CONSTANT INPUTS HERE" section of the code to suit your own situation:
 - minutes past sunrise for coop door to open
 - minutes past sunrise for run door to open
