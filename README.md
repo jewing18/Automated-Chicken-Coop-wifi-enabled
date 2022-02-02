@@ -26,7 +26,7 @@ to create your own automated chicken coop.
 - (1) Smartphone with "Blynk" App installed
 
 
-1.) ~Initial Board Setup information~
+1.) Initial Board Setup information
 https://www.gabrielcsapo.com/arduino-web-server-mega-2560-r3-built-in-esp8266/
 - The link above is a great reference for how to set up the Mega 2560 + Wifi
 - Getting connected to wifi may be the hardest part of setting up the Automated coop. 
