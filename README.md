@@ -13,17 +13,31 @@ to create your own automated chicken coop.
 - 2 Thermocouples to monitor the temperature of the coop and (if desired) chicks. 
 - A smartphone user-interface using the "Blynk App" to control and monitor all coop functions. 
 
-**~ Components needed for Automation: ~**
+**~ Purchaseable Components needed for Automation: ~**
 - (1) Songhe Mega 2560 + WiFi (Arduino Mega w/ ESP8266 built-in)
 - (2) L298N H-Bridge Motor Driver
 - (4) RC-33 Reed Switches 
 - (2) DS18B20 Thermocouples
 - (1) 12V Power Supply
 - (3) ~30rpm DC Electric Motors -> 2 for doors, 1 for feed drive
+- (3) Mounting Hubs to attach to motors.
 - (1) 4.7kohm resistor
 - (4) 10kohm resistor
 - (-) Necessary Wiring
 - (1) Smartphone with "Blynk" App installed
+
+**~Buildable Components needed for Automation~**
+- Chicken Coop (of course)
+- Doors that can slide up and down based on motor spinning (usually made of plywood and framing, see reference images)
+- Automatic Watering system - This is NOT ana rduino automated system. 
+  This is fully mechanical and can be achieved simply by routing a pipe
+  from a 55gal drum of water into the coop and attached chicken watering
+  nipples to the pipe. Simple enough. No need for electronics. 
+- Feed Screw Gear - this is the only truly custom portion of this build
+  (more schematics to come). The feed screw is a 3D printable auger that
+  is meant to slide into a 2" PVC pipe and as the motor it is mounted to 
+  spins, the auger spins, forcing feed down the PVC pipe to its intended 
+  destination. STL files are included in this repository. 
 
 
 1.) **Initial Board Setup information**
