@@ -26,7 +26,7 @@ to create your own automated chicken coop.
 - (-) Necessary Wiring
 - (1) Smartphone with "Blynk" App installed
 
-**~Buildable Components needed for Automation~**
+**Buildable Components needed for Automation**
 - Chicken Coop (of course)
 - Doors that can slide up and down based on motor spinning (usually made of plywood and framing, see reference images)
 - Automatic Watering system - This is NOT ana rduino automated system. 
