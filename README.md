@@ -1,5 +1,5 @@
 # Automated-Chicken-Coop-wifi-enabled
-This is the code and wiring diagram for an Automated Chicken Coop that is wifi enabled.
+This is the code and basic setup information for an Automated Chicken Coop that is wifi enabled.
 
 This is my first (and likely only) GitHub post, as I am only a mechanical engineer that loves
 chickens and random projects like this. I'd like to share this with all of you out there looking
