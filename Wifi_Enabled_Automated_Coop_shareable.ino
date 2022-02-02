@@ -10,7 +10,7 @@
 
 
 #define BLYNK_PRINT Serial                      //Enables Blynk Serial Monitor
-#define BLYNK_TEMPLATE_ID   "TMPLZ3LtXhEe"      //Input Blynk Template ID Here
+#define BLYNK_TEMPLATE_ID   "xxxxxxxxxxxx"      //Input Blynk Template ID Here
 #include <BlynkSimpleWifi.h>                    //for Blynk App connection
 
 //Thermocouple data wire is plugged into digital pin 50 on the Arduino
